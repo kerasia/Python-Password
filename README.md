@@ -31,5 +31,5 @@ After that, you will see the Phonetic Output of the password:
 
 ## License
 
-This project is licensed under the ??? License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the ??? License - see the [LICENSE](LICENSE) file for details
 
