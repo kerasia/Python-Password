@@ -1,4 +1,4 @@
-# Project Title
+# Phonetic Password "Translator"
 
 This program is designed to translate a given password of upper-case and lower-case letters, numbers, and US-keyboard symbols into a readable, pronounceable, and phonetically shareable string.  
 
